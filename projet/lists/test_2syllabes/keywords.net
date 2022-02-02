@@ -1,0 +1,2 @@
+$keyword = zhuzi | yuanzi | yuanyin ; 
+( silence < $keyword  silence> )

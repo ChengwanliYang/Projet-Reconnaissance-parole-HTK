@@ -1,0 +1,26 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.652813 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sampa/phon" 
+        xmin = 0 
+        xmax = 0.652813 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25990625000000006 
+            text = "ai" 
+        intervals [2]:
+            xmin = 0.25990625000000006 
+            xmax = 0.4151842196830152 
+            text = "s#" 
+        intervals [3]:
+            xmin = 0.4151842196830152 
+            xmax = 0.652813 
+            text = "i" 

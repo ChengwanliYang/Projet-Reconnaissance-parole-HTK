@@ -1,0 +1,3 @@
+$keyword = jumuwangqu | lvcaoruyin | shumufanmao | huaxiangniaoyu | lindaiyu | xiaoxiangguan | xiaopaipai | xiaopengyou | yunayigong | natinghaode | kandaozhuzi | xihuanwenxue | zhuozhuangchengzhang | shishishi | zheliangnian | biyuanlai | kenengyouxie | zhongmanzhuzi | tebiepiaoliang | tebiexingfu ;
+ $monde = < eN | g | uaN | y | dz# | ei | @ | x | ua | t | i | n | iE | iNN | d | a | #dz | ia | #s | dz | ai | uo | m | uei | iN | oNN | p | #i | yn | f | ts# | aNN | au | s# | iaN | l | k | aN | r | uaNN | ui | iau | yE | #ts| u | iu | s | iou | eNN | b | ts | uai | iaNN | er | ou | ioNN | ueN | o | silence >;
+( < $monde | $keyword > )

@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.419437 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sampa/phon" 
+        xmin = 0 
+        xmax = 2.419437 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.06229212603966347 
+            text = "n" 
+        intervals [2]:
+            xmin = 0.06229212603966347 
+            xmax = 0.21945372732426305 
+            text = "eN" 
+        intervals [3]:
+            xmin = 0.21945372732426305 
+            xmax = 0.27750673185941044 
+            text = "dz" 
+        intervals [4]:
+            xmin = 0.27750673185941044 
+            xmax = 0.3545067318594104 
+            text = "ai" 
+        intervals [5]:
+            xmin = 0.3545067318594104 
+            xmax = 0.4149459888641827 
+            text = "b" 
+        intervals [6]:
+            xmin = 0.4149459888641827 
+            xmax = 0.5000082271334135 
+            text = "ei" 
+        intervals [7]:
+            xmin = 0.5000082271334135 
+            xmax = 0.5612947137188207 
+            text = "#dz" 
+        intervals [8]:
+            xmin = 0.5612947137188207 
+            xmax = 0.7020310430228366 
+            text = "iNN" 
+        intervals [9]:
+            xmin = 0.7020310430228366 
+            xmax = 0.729294713718821 
+            text = "t" 
+        intervals [10]:
+            xmin = 0.729294713718821 
+            xmax = 0.8992947137188211 
+            text = "@" 
+        intervals [11]:
+            xmin = 0.8992947137188211 
+            xmax = 0.9422340076382212 
+            text = "dz#" 
+        intervals [12]:
+            xmin = 0.9422340076382212 
+            xmax = 0.9741323469891827 
+            text = "@" 
+        intervals [13]:
+            xmin = 0.9741323469891827 
+            xmax = 1.0115067318594104 
+            text = "k" 
+        intervals [14]:
+            xmin = 1.0115067318594104 
+            xmax = 1.0657947137188208 
+            text = "@" 
+        intervals [15]:
+            xmin = 1.0657947137188208 
+            xmax = 1.1662947137188209 
+            text = "ts#" 
+        intervals [16]:
+            xmin = 1.1662947137188209 
+            xmax = 1.2842550906790866 
+            text = "eN" 
+        intervals [17]:
+            xmin = 1.2842550906790866 
+            xmax = 1.3143813000661058 
+            text = "s#" 
+        intervals [18]:
+            xmin = 1.3143813000661058 
+            xmax = 1.3935067318594103 
+            text = "i" 
+        intervals [19]:
+            xmin = 1.3935067318594103 
+            xmax = 1.4909007227891156 
+            text = "i" 
+        intervals [20]:
+            xmin = 1.4909007227891156 
+            xmax = 1.5199483758834136 
+            text = "t" 
+        intervals [21]:
+            xmin = 1.5199483758834136 
+            xmax = 1.6747537444651446 
+            text = "aN" 
+        intervals [22]:
+            xmin = 1.6747537444651446 
+            xmax = 1.7975067318594102 
+            text = "dz#" 
+        intervals [23]:
+            xmin = 1.7975067318594102 
+            xmax = 1.9636109285877406 
+            text = "oNN" 
+        intervals [24]:
+            xmin = 1.9636109285877406 
+            xmax = 2.010988821003606 
+            text = "dz" 
+        intervals [25]:
+            xmin = 2.010988821003606 
+            xmax = 2.1014007227891156 
+            text = "ai" 
+        intervals [26]:
+            xmin = 2.1014007227891156 
+            xmax = 2.1522947137188204 
+            text = "k" 
+        intervals [27]:
+            xmin = 2.1522947137188204 
+            xmax = 2.249006731859411 
+            text = "oNN" 
+        intervals [28]:
+            xmin = 2.249006731859411 
+            xmax = 2.316294713718821 
+            text = "y" 
+        intervals [29]:
+            xmin = 2.316294713718821 
+            xmax = 2.419437 
+            text = "uaN" 

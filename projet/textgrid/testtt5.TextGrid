@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sampa" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6046905272316259 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6046905272316259 
+            xmax = 0.9507757561351824 
+            text = "zhuzi" 
+        intervals [3]:
+            xmin = 0.9507757561351824 
+            xmax = 8.239183496986914 
+            text = "" 
+        intervals [4]:
+            xmin = 8.239183496986914 
+            xmax = 8.647069659623249 
+            text = "zhuzi" 
+        intervals [5]:
+            xmin = 8.647069659623249 
+            xmax = 19.822411802935513 
+            text = "" 
+        intervals [6]:
+            xmin = 19.822411802935513 
+            xmax = 20.236478058945124 
+            text = "yuanzi" 
+        intervals [7]:
+            xmin = 20.236478058945124 
+            xmax = 23.19555263423574 
+            text = "" 
+        intervals [8]:
+            xmin = 23.19555263423574 
+            xmax = 23.504557302899627 
+            text = "yuanzi" 
+        intervals [9]:
+            xmin = 23.504557302899627 
+            xmax = 25.972246860384143 
+            text = "" 
+        intervals [10]:
+            xmin = 25.972246860384143 
+            xmax = 26.441933956753257 
+            text = "yuanzi" 
+        intervals [11]:
+            xmin = 26.441933956753257 
+            xmax = 28.67912775787982 
+            text = "" 
+        intervals [12]:
+            xmin = 28.67912775787982 
+            xmax = 29.23533616147482 
+            text = "zhuzi" 
+        intervals [13]:
+            xmin = 29.23533616147482 
+            xmax = 29.420910364074565 
+            text = "" 
+        intervals [14]:
+            xmin = 29.420910364074565 
+            xmax = 29.816436339964348 
+            text = "zhuzi" 
+        intervals [15]:
+            xmin = 29.816436339964348 
+            xmax = 33.7655377327731 
+            text = "" 
+        intervals [16]:
+            xmin = 33.7655377327731 
+            xmax = 34.27230538938188 
+            text = "yuanyin" 
+        intervals [17]:
+            xmin = 34.27230538938188 
+            xmax = 35.47742359717105 
+            text = "" 
+        intervals [18]:
+            xmin = 35.47742359717105 
+            xmax = 35.903850039927214 
+            text = "yuanyin" 
+        intervals [19]:
+            xmin = 35.903850039927214 
+            xmax = 44.86776647442634 
+            text = "" 
+        intervals [20]:
+            xmin = 44.86776647442634 
+            xmax = 45.1582308629704 
+            text = "yuanzi" 
+        intervals [21]:
+            xmin = 45.1582308629704 
+            xmax = 45.52285637199379 
+            text = "" 
+        intervals [22]:
+            xmin = 45.52285637199379 
+            xmax = 45.825680947284404 
+            text = "zhuzi" 
+        intervals [23]:
+            xmin = 45.825680947284404 
+            xmax = 47.0493394351934 
+            text = "" 
+        intervals [24]:
+            xmin = 47.0493394351934 
+            xmax = 47.32744363699091 
+            text = "zhuzi" 
+        intervals [25]:
+            xmin = 47.32744363699091 
+            xmax = 51.00522686027227 
+            text = "" 
+        intervals [26]:
+            xmin = 51.00522686027227 
+            xmax = 51.18444956809733 
+            text = "zhuzi" 
+        intervals [27]:
+            xmin = 51.18444956809733 
+            xmax = 51.67885703795955 
+            text = "" 
+        intervals [28]:
+            xmin = 51.67885703795955 
+            xmax = 51.98168161325017 
+            text = "zhuzi" 
+        intervals [29]:
+            xmin = 51.98168161325017 
+            xmax = 53.6043520363128 
+            text = "" 
+        intervals [30]:
+            xmin = 53.6043520363128 
+            xmax = 53.93189698509652 
+            text = "zhuzi" 
+        intervals [31]:
+            xmin = 53.93189698509652 
+            xmax = 57.259225460363474 
+            text = "" 
+        intervals [32]:
+            xmin = 57.259225460363474 
+            xmax = 57.5311495687877 
+            text = "zhuzi" 
+        intervals [33]:
+            xmin = 57.5311495687877 
+            xmax = 60 
+            text = "" 

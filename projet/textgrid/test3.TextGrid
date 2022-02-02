@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sampa" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.378486821838256 
+            text = "" 
+        intervals [2]:
+            xmin = 5.378486821838256 
+            xmax = 6.0596704469817695 
+            text = "lindaiyu" 
+        intervals [3]:
+            xmin = 6.0596704469817695 
+            xmax = 9.096860207933311 
+            text = "" 
+        intervals [4]:
+            xmin = 9.096860207933311 
+            xmax = 9.794524082072233 
+            text = "xiaoxiangguan" 
+        intervals [5]:
+            xmin = 9.794524082072233 
+            xmax = 39.06833559085452 
+            text = "" 
+        intervals [6]:
+            xmin = 39.06833559085452 
+            xmax = 39.48668336462825 
+            text = "yuanyigong" 
+        intervals [7]:
+            xmin = 39.48668336462825 
+            xmax = 47.69895870651322 
+            text = "" 
+        intervals [8]:
+            xmin = 47.69895870651322 
+            xmax = 48.248300339693465 
+            text = "xiaopaipai" 
+        intervals [9]:
+            xmin = 48.248300339693465 
+            xmax = 50.028167231197486 
+            text = "" 
+        intervals [10]:
+            xmin = 50.028167231197486 
+            xmax = 50.533561533723315 
+            text = "xiaopengyou" 
+        intervals [11]:
+            xmin = 50.533561533723315 
+            xmax = 59.01260146831946 
+            text = "" 
+        intervals [12]:
+            xmin = 59.01260146831946 
+            xmax = 59.517995770845296 
+            text = "xiaopaipai" 
+        intervals [13]:
+            xmin = 59.517995770845296 
+            xmax = 60 
+            text = "" 

@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.181062 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sampa/phon" 
+        xmin = 0 
+        xmax = 1.181062 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10523533163265311 
+            text = "s#" 
+        intervals [2]:
+            xmin = 0.10523533163265311 
+            xmax = 0.152514504007965 
+            text = "i" 
+        intervals [3]:
+            xmin = 0.152514504007965 
+            xmax = 0.20441902624533584 
+            text = "b" 
+        intervals [4]:
+            xmin = 0.20441902624533584 
+            xmax = 0.24075219181149546 
+            text = "u" 
+        intervals [5]:
+            xmin = 0.24075219181149546 
+            xmax = 0.35667229147495705 
+            text = "iE" 
+        intervals [6]:
+            xmin = 0.35667229147495705 
+            xmax = 0.40511651222983647 
+            text = "t" 
+        intervals [7]:
+            xmin = 0.40511651222983647 
+            xmax = 0.5504491744944748 
+            text = "iNN" 
+        intervals [8]:
+            xmin = 0.5504491744944748 
+            xmax = 0.6836707815703933 
+            text = "x" 
+        intervals [9]:
+            xmin = 0.6836707815703933 
+            xmax = 0.8584160064362085 
+            text = "oNN" 
+        intervals [10]:
+            xmin = 0.8584160064362085 
+            xmax = 0.894749172002368 
+            text = "t" 
+        intervals [11]:
+            xmin = 0.894749172002368 
+            xmax = 1.1162084668818169 
+            text = "oNN" 
+        intervals [12]:
+            xmin = 1.1162084668818169 
+            xmax = 1.1525416324479765 
+            text = "t" 
+        intervals [13]:
+            xmin = 1.1525416324479765 
+            xmax = 1.181062 
+            text = "@" 

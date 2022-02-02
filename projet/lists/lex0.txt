@@ -1,0 +1,25 @@
+loc1-5 silence aN silence n a m @ #ts i s# i n @ dz# @ dz# oNN dz i dz# u #s iaN dz ai i dz# i a #dz iou s# i m au m iNN t iNN t i silence #dz y iou k uaN r eN s# i s# uo dz# @ eN 
+loc1-4 silence #ts iaN l oNN iE i k au s# iNN silence dz# oNN s# aN silence l @ dz# @ k @ silence x ua #dz iaN silence #dz iou x ua b a s# i silence eN 
+loc2-1 #dz iou silence b u s# i m iNN f u #ts i s# i t @ a dz eN m @ b aN n 
+loc1-10 m ei y ou b au l iou #s ia l ai eN silence n a dz i dz# u y uaN b u n eN m ei dz# aN silence dz# u dz i silence #dz y s# uo n @ silence dz# @ k @ t aN s# i silence k uaN dz i dz# u y uaN n @ s# i x ou x eN t uo r eN iE s# i y ou dz# y aN i k @ b ei #dz iNN r eN t @ #s iN y uaN #dz iou s# i 
+loc1-11 silence n i #dz i r aN i dz# u dz i m iNN m iNN dz# @ y aN t @ i k @ k oNN y uaN n a dz eN m iE t ei y iE t ei y ou dz# u dz i y 
+loc2-6 silence eN t @ b iE iou ueN r eN t @ r ueN ui dz 
+loc2-7 ai s# 
+loc1-17 silence s uo i m ei l aN ts# u #dz y b u s# i x au ts# eN s i silence s i #dz uaN dz i m 
+loc1-16 silence @ iE n eN k eN dz ai ts# eN s# i l i silence p iaN silence #s iN s# aN t au dz# @ dz# oNN silence dz# u dz i a silence n eN k ou silence k aN k aN dz# u dz i s# i i #dz iaN t @ b iE #s iNN f y t @ s# 
+loc1-8 silence k aN ts ai s# uo l @ s# uo t oNN b iaN aN #s iaN dz# @ k @ silence t oNN dz# ou i ou silence dz i dz# u y uaN l i b iaN silence dz# i l iou #s ia dz i dz# u t @ #s y m iNN 
+loc1-9 silence t aN n iaN x uaN s# aN k ei t a m a #s iou n a k @ dz i dz# u #ts aN y uaN x @ s i iNN k oNN silence iE dz au #dz iou k aN b u #dz iaN l a 
+loc1-2 y #s i n @ #dz uaN m eN b ai silence k oNN l i silence b iaN t @ silence #dz @ k @ x ua silence b a #s i a #dz iou silence t au #dz iaN n aN silence i #dz i #dz @ k @ dz i #dz u #dz iou silence #dz uaN m eN silence #dz oNN x ua t @ silence x ua #dz iaN 
+loc1-3 r eN #dz ia x ua l @ silence #dz i n iaN t @ k oNN f u silence ts ai dz ai dz# @ k @ dz i dz# u y uaN n ei l i b iaN #dz iou dz i dz# u #ts aN y uaN l i b iaN silence dz ai l @ x au t uo t @ dz# u dz i silence eN silence #dz y s# uo #ts iaN l oNN t @ m u #ts iN i k aN dz# @ b iaN dz# u dz i s# i s# iau iaN k ai 
+loc1-13 silence s# i dz# @ dz ai dz# @ y uaN dz i l i silence p iaN dz ai silence #dz iNN k uo #dz i n iaN t @ n u l i a silence dz# u dz i dz# oNN y dz ai b ei #dz iNN s uaN s# i silence i dz# i ts# eN k oNN l a silence eN dz# @ dz ai t aN s# i t @ 
+loc1-12 t ui a t au l @ i #dz iou p a i n iaN #ts iaN x ou silence dz i dz# u y uaN t @ dz# @ k @ y uaN i s# i f eN ts# eN #dz i dz# u ts oNN n aN f aN iN #dz iN l @ dz# u m iau 
+loc2-2 silence n a n ei k @ s# i x ou t @ t iau #dz iaN iou #s iaN dz# i b a t ui iNN k ai b u s# i i k @ r @ r oNN i t @ k oNN ts# 
+loc2-3 silence m ei iou b au l iou #s ia l 
+loc1-18 n eN dz ai b ei #dz iNN t @ dz# @ k @ ts# eN s# i i t aN dz# oNN dz ai k oNN y 
+loc1-6 @ s# uo s# i silence t a silence b u s# i dz# u dz i m a #dz iou s# i l u u ei m a silence eN dz i s @ t @ silence dz @ k @ silence dz# @ k @ silence b aN iaN silence dz i dz# u t @ dz# @ #dz yE s @ silence k @ ai t @ l u ui dz i s @ l u ui m au m iNN t iNN t i x uo t au er s# i s# i #dz i l iou s# i n iaN silence t 
+loc1-7 silence a a a s# i #dz iaN x ai t iNN ts# aN t @ silence eN silence ei #s iaN dz ai t aN r aN l a silence u s# i r eN f ei a dz# @ k @ silence dz uo f ei #dz iN r i silence n a m @ dz ai k uaN dz m dz# u uaN l i b iaN t @ s# i x 
+loc1-1 silence dz i dz# u ts# aN y uaN silence m eN silence b u n eN ts# iau l @ dz i dz# u ts# aN y uaN m ei dz# eN dz# eN ts# u ts# i dz eN m @ b 
+loc1-14 silence y uaN l iN #dz iE a s# i i aN iaN silence f ei ts# aN l iau p u #ts i t @ t a s# i 
+loc1-15 t ui iN #ts i l @ x oNN t oNN a silence t aN r aN a silence dz# @ s# i silence p ei #dz iNN r eN t @ s uo ui t @ dz au x ua silence #dz iou s# i silence t @ p iE silence x au t @ f u ts i silence eN p ei #dz iNN t @ 
+loc2-5 s# i b u iE t iNN x oNN t oNN t 
+loc2-4 x au t ai dz aN dz# oNN t iaN 

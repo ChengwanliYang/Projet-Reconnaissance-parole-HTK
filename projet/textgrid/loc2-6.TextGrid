@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.085313 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sampa/phon" 
+        xmin = 0 
+        xmax = 2.085313 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.06766680575577642 
+            text = "silence" 
+        intervals [2]:
+            xmin = 0.06766680575577642 
+            xmax = 0.3092775651927439 
+            text = "eN" 
+        intervals [3]:
+            xmin = 0.3092775651927439 
+            xmax = 0.4217927485771564 
+            text = "t" 
+        intervals [4]:
+            xmin = 0.4217927485771564 
+            xmax = 0.45692292554992475 
+            text = "@" 
+        intervals [5]:
+            xmin = 0.45692292554992475 
+            xmax = 0.4981626985179572 
+            text = "b" 
+        intervals [6]:
+            xmin = 0.4981626985179572 
+            xmax = 0.574532648458758 
+            text = "iE" 
+        intervals [7]:
+            xmin = 0.574532648458758 
+            xmax = 0.763930124311944 
+            text = "iou" 
+        intervals [8]:
+            xmin = 0.763930124311944 
+            xmax = 0.9572159896646876 
+            text = "ueN" 
+        intervals [9]:
+            xmin = 0.9572159896646876 
+            xmax = 1.0552775651927442 
+            text = "r" 
+        intervals [10]:
+            xmin = 1.0552775651927442 
+            xmax = 1.2550142431972793 
+            text = "eN" 
+        intervals [11]:
+            xmin = 1.2550142431972793 
+            xmax = 1.2984669075963722 
+            text = "t" 
+        intervals [12]:
+            xmin = 1.2984669075963722 
+            xmax = 1.3807775651927434 
+            text = "@" 
+        intervals [13]:
+            xmin = 1.3807775651927434 
+            xmax = 1.455277565192744 
+            text = "r" 
+        intervals [14]:
+            xmin = 1.455277565192744 
+            xmax = 1.6013722363945577 
+            text = "ueN" 
+        intervals [15]:
+            xmin = 1.6013722363945577 
+            xmax = 1.824966907596372 
+            text = "ui" 
+        intervals [16]:
+            xmin = 1.824966907596372 
+            xmax = 1.913466907596372 
+            text = "dz" 
+        intervals [17]:
+            xmin = 1.913466907596372 
+            xmax = 2.085313 
+            text = "ai" 

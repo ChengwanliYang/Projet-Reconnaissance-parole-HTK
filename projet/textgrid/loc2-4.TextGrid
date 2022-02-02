@@ -1,0 +1,58 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.182125 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sampa/phon" 
+        xmin = 0 
+        xmax = 1.182125 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11020875850340142 
+            text = "x" 
+        intervals [2]:
+            xmin = 0.11020875850340142 
+            xmax = 0.27435501700680276 
+            text = "au" 
+        intervals [3]:
+            xmin = 0.27435501700680276 
+            xmax = 0.3352087585034014 
+            text = "t" 
+        intervals [4]:
+            xmin = 0.3352087585034014 
+            xmax = 0.4497087585034014 
+            text = "ai" 
+        intervals [5]:
+            xmin = 0.4497087585034014 
+            xmax = 0.5352087585034013 
+            text = "dz" 
+        intervals [6]:
+            xmin = 0.5352087585034013 
+            xmax = 0.650297193877551 
+            text = "aN" 
+        intervals [7]:
+            xmin = 0.650297193877551 
+            xmax = 0.7212087585034015 
+            text = "dz#" 
+        intervals [8]:
+            xmin = 0.7212087585034015 
+            xmax = 0.926297193877551 
+            text = "oNN" 
+        intervals [9]:
+            xmin = 0.926297193877551 
+            xmax = 0.9572087585034014 
+            text = "t" 
+        intervals [10]:
+            xmin = 0.9572087585034014 
+            xmax = 1.1310667598082307 
+            text = "iaN" 
+        intervals [11]:
+            xmin = 1.1310667598082307 
+            xmax = 1.182125 
+            text = "silence" 

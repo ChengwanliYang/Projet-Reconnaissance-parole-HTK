@@ -1,0 +1,46 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sampa" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.174354639064294 
+            text = "" 
+        intervals [2]:
+            xmin = 13.174354639064294 
+            xmax = 14.127414215292076 
+            text = "jumuwangqu" 
+        intervals [3]:
+            xmin = 14.127414215292076 
+            xmax = 15.135843024541863 
+            text = "lvcaoruyin" 
+        intervals [4]:
+            xmin = 15.135843024541863 
+            xmax = 15.247429079622496 
+            text = "" 
+        intervals [5]:
+            xmin = 15.247429079622496 
+            xmax = 16.101655319217787 
+            text = "shumufanmao" 
+        intervals [6]:
+            xmin = 16.101655319217787 
+            xmax = 16.17626869000699 
+            text = "" 
+        intervals [7]:
+            xmin = 16.17626869000699 
+            xmax = 17.190041977611944 
+            text = "huaxiangniaoyu" 
+        intervals [8]:
+            xmin = 17.190041977611944 
+            xmax = 60 
+            text = "" 

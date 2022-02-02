@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.908875 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sampa/phon" 
+        xmin = 0 
+        xmax = 2.908875 
+        intervals: size = 31 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0386728940670745 
+            text = "silence" 
+        intervals [2]:
+            xmin = 0.0386728940670745 
+            xmax = 0.08793636621315175 
+            text = "y" 
+        intervals [3]:
+            xmin = 0.08793636621315175 
+            xmax = 0.1999352324263035 
+            text = "uaN" 
+        intervals [4]:
+            xmin = 0.1999352324263035 
+            xmax = 0.2538656680203251 
+            text = "l" 
+        intervals [5]:
+            xmin = 0.2538656680203251 
+            xmax = 0.4392297406335212 
+            text = "iN" 
+        intervals [6]:
+            xmin = 0.4392297406335212 
+            xmax = 0.4775809280707342 
+            text = "#dz" 
+        intervals [7]:
+            xmin = 0.4775809280707342 
+            xmax = 0.5947651119066627 
+            text = "iE" 
+        intervals [8]:
+            xmin = 0.5947651119066627 
+            xmax = 0.7924352324263036 
+            text = "a" 
+        intervals [9]:
+            xmin = 0.7924352324263036 
+            xmax = 0.9034352324263035 
+            text = "s#" 
+        intervals [10]:
+            xmin = 0.9034352324263035 
+            xmax = 0.9654932571330549 
+            text = "i" 
+        intervals [11]:
+            xmin = 0.9654932571330549 
+            xmax = 1.1014352324263035 
+            text = "i" 
+        intervals [12]:
+            xmin = 1.1014352324263035 
+            xmax = 1.1423348436490923 
+            text = "aN" 
+        intervals [13]:
+            xmin = 1.1423348436490923 
+            xmax = 1.3741652164919094 
+            text = "iaN" 
+        intervals [14]:
+            xmin = 1.3741652164919094 
+            xmax = 1.5723130182508431 
+            text = "silence" 
+        intervals [15]:
+            xmin = 1.5723130182508431 
+            xmax = 1.6681909868438756 
+            text = "f" 
+        intervals [16]:
+            xmin = 1.6681909868438756 
+            xmax = 1.818013043186262 
+            text = "ei" 
+        intervals [17]:
+            xmin = 1.818013043186262 
+            xmax = 1.8689363662131517 
+            text = "ts#" 
+        intervals [18]:
+            xmin = 1.8689363662131517 
+            xmax = 2.0699363662131516 
+            text = "aN" 
+        intervals [19]:
+            xmin = 2.0699363662131516 
+            xmax = 2.114169435062518 
+            text = "l" 
+        intervals [20]:
+            xmin = 2.114169435062518 
+            xmax = 2.2249617543255775 
+            text = "iau" 
+        intervals [21]:
+            xmin = 2.2249617543255775 
+            xmax = 2.2526598341413426 
+            text = "p" 
+        intervals [22]:
+            xmin = 2.2526598341413426 
+            xmax = 2.289436366213152 
+            text = "u" 
+        intervals [23]:
+            xmin = 2.289436366213152 
+            xmax = 2.3919363662131516 
+            text = "#ts" 
+        intervals [24]:
+            xmin = 2.3919363662131516 
+            xmax = 2.4408116496598637 
+            text = "i" 
+        intervals [25]:
+            xmin = 2.4408116496598637 
+            xmax = 2.4817187813374537 
+            text = "t" 
+        intervals [26]:
+            xmin = 2.4817187813374537 
+            xmax = 2.552029291639011 
+            text = "@" 
+        intervals [27]:
+            xmin = 2.552029291639011 
+            xmax = 2.5925111006005133 
+            text = "t" 
+        intervals [28]:
+            xmin = 2.5925111006005133 
+            xmax = 2.7139363662131517 
+            text = "a" 
+        intervals [29]:
+            xmin = 2.7139363662131517 
+            xmax = 2.7885282808351577 
+            text = "s#" 
+        intervals [30]:
+            xmin = 2.7885282808351577 
+            xmax = 2.863100034185294 
+            text = "i" 
+        intervals [31]:
+            xmin = 2.863100034185294 
+            xmax = 2.908875 
+            text = "silence" 
